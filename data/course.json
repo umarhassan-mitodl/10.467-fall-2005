@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Polymeric Materials"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Polymers"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ]
+  ],
+  "legacy_uid": "66869383-31fe-087c-f41e-87d6aa7d213c",
+  "instructors": {
+    "content": [
+      "23183d4c-8bdf-5028-570a-c5e46ed0661d",
+      "b2da2629-907c-be88-a7af-eafcc3093721"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2d74349d-8e4e-ef92-ce75-7e32209c3efa",
+    "website": "10-467-polymer-science-laboratory-fall-2005"
+  },
+  "course_title": "Polymer Science Laboratory",
+  "course_description": "Experiments in this class are broadly aimed at acquainting students with the range of properties of polymers, methods of synthesis, and physical chemistry. Some examples of laboratory work include solution polymerization of acrylamide, bead polymerization of divinylbenzene, and interfacial polymerization of nylon 6,10. Evaluation of networks by tensile and swelling experiments, rheology of polymer solutions and suspensions, and physical properties of natural and silicone rubber are also covered.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.467",
+  "course_image_thumbnail": {
+    "content": "849aa5ff-ef89-a992-8f5d-50ce508b4df2",
+    "website": "10-467-polymer-science-laboratory-fall-2005"
+  },
+  "learning_resource_types": [],
+  "site_uid": "7776b4c0-53af-4f60-bd3e-ff09f9f2ed35",
+  "site_short_id": "10.467-fall-2005",
+  "site_url_path": "courses/10-467-polymer-science-laboratory-fall-2005",
+  "title": "Course Metadata"
+}
