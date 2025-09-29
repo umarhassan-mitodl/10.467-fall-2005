@@ -2,6 +2,8 @@
 content_type: page
 description: This section gives details about the labs, topics and their procedure
   which is a linked file.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection

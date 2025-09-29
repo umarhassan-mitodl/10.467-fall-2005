@@ -34,6 +34,7 @@
     "website": "10-467-polymer-science-laboratory-fall-2005"
   },
   "course_title": "Polymer Science Laboratory",
+  "hide_download": true,
   "course_description": "Experiments in this class are broadly aimed at acquainting students with the range of properties of polymers, methods of synthesis, and physical chemistry. Some examples of laboratory work include solution polymerization of acrylamide, bead polymerization of divinylbenzene, and interfacial polymerization of nylon 6,10. Evaluation of networks by tensile and swelling experiments, rheology of polymer solutions and suspensions, and physical properties of natural and silicone rubber are also covered.\n",
   "department_numbers": [
     "10"
@@ -44,6 +45,7 @@
     "content": "849aa5ff-ef89-a992-8f5d-50ce508b4df2",
     "website": "10-467-polymer-science-laboratory-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "7776b4c0-53af-4f60-bd3e-ff09f9f2ed35",
   "site_short_id": "10.467-fall-2005",
