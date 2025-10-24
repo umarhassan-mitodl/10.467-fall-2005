@@ -4,8 +4,6 @@ description: Lab instructions.
 file: /courses/10-467-polymer-science-laboratory-fall-2005/f26d6cfc67ca6eae81bd419df3511888_experiment_11.pdf
 file_size: 62659
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
